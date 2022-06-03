@@ -1,0 +1,19 @@
+{
+  "name": "valux_exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kibumiktus/ValuX_Exam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kibumiktus/ValuX_Exam/issues"
+  },
+  "homepage": "https://github.com/kibumiktus/ValuX_Exam#readme"
+}
