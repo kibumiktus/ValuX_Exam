@@ -78,6 +78,9 @@ typings/
 # Next.js build output
 .next
 
+# VSCode settings folder
+.vscode
+
 # Nuxt.js build / generate output
 .nuxt
 dist
